@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+Weiya Chen
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
